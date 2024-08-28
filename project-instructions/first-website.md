@@ -96,8 +96,8 @@ Also note that HTML tags are hierarchical, and **need to be indented to illustra
 
 ```HTML
 <div id="content">
-    <div id="sidebar">
-        <!-- sidebar content goes here -->
+    <div id="">
+        <!-- sidebarsidebar content goes here -->
     </div>
     <div id="main">
         <!-- main content goes here -->
